@@ -1,0 +1,17 @@
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.ChartStaticstic.resources
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.InterfaceOption.resources
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.MainForm.resources
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.Properties.Resources.resources
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\Lab4.exe.config
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\Lab4.exe
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\Lab4.pdb
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\itextsharp.dll
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\itextsharp.pdfa.dll
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\bin\Debug\itextsharp.xtra.dll
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.exe
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.pdb
+C:\Users\IAmFriend\Desktop\ПО ОН\Лабы ООП\Lab4\Lab4\obj\Debug\Lab4.AutorizForm.resources
