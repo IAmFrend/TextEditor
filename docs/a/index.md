@@ -1,6 +1,7 @@
 # Основа кода ПО
 
 ## Основное окно
+`
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -552,3 +553,4 @@ namespace Lab4
         }
     }
 }
+`
